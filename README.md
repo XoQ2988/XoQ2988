@@ -2,34 +2,33 @@
 
 class Attributes(XoQ):
     def __init__(self) -> None:
-
         pass
 
-@staticmethod
-def contact(self) -> tuple:
-    discord = "XoQ#2988"
-    proton = "xoq2988@protonmail.com"
-
-    return discord, proton
-
-@staticmethod
-def life(self) -> tuple:
-    langs = ['English', 'German', 'Spanish']
-    age = 17
+    @staticmethod
+    def contact() -> tuple:
+        discord = "XoQ#2988"
+        proton = "xoq2988@protonmail.com"
     
-    return langs, age
-
-@staticmethod
-def coding(self) -> tuple:
-    langs = {
-    'expert': ['python'],
-    'intermediate': ['java', 'c'],
-    'learning': ['c++', 'c#', 'asm']
-    }
-    specialities = ['web/app reverse engineering', 'skidding (joke)']
-    environment = ['pycharm', 'vscode']
-
-    return langs, specialities, environment
+        return discord, proton
+    
+    @staticmethod
+    def life() -> tuple:
+        langs = ['English', 'German', 'Spanish']
+        age = 17
+        
+        return langs, age
+    
+    @staticmethod
+    def coding() -> tuple:
+        langs = {
+        'expert': ['python'],
+        'intermediate': ['java', 'c'],
+        'learning': ['c++', 'c#', 'asm']
+        }
+        specialities = ['web/app reverse engineering', 'skidding (joke)']
+        environment = ['pycharm', 'vscode']
+    
+        return langs, specialities, environment
 
 ```
 
