@@ -1,6 +1,6 @@
-
-![Discord Presence](https://lanyard.cnrad.dev/api/614815221399158854)
-
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/614815221399158854"/>
+</p>
 
 ```python
 
