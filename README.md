@@ -1,8 +1,8 @@
 <p align="center">
     <img class="rounded-image" src="https://i.imgur.com/mlE64nK.png">
-    <img width=350px  src="https://skillicons.dev/icons?i=python,c,cs,java,html,css"/>
-    <img width=50px height=50px style="border-radius:15px" src="https://i.pinimg.com/originals/70/cf/72/70cf72dfdc5e08d124cc4c5e2a172d65.gif">
-    <img width=350px  src="https://skillicons.dev/icons?i=discord,bots,raspberrypi,linux,github,vscode"/>
+    <img width=380px  src="https://skillicons.dev/icons?i=python,c,cs,java,html,css"/>
+    <img width=55px height=55px style="border-radius:15px" src="https://i.pinimg.com/originals/70/cf/72/70cf72dfdc5e08d124cc4c5e2a172d65.gif">
+    <img width=380px  src="https://skillicons.dev/icons?i=discord,bots,raspberrypi,linux,github,vscode"/>
 </p>
 
 <div align="center">
