@@ -1,5 +1,5 @@
 
-![Discord Presence](https://lanyard.cnrad.dev/api/614815221399158854)](https://discord.com/users/614815221399158854)
+![Discord Presence](https://lanyard.cnrad.dev/api/614815221399158854)
 
 
 ```python
