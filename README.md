@@ -4,7 +4,7 @@
 ## Languages and Tools
 <p align="center">
     <img width=380px  src="https://skillicons.dev/icons?i=python,c,cs,java,html,css"/>
-    <img width=55px height=55px style="border-radius:15px" src="https://i.pinimg.com/originals/70/cf/72/70cf72dfdc5e08d124cc4c5e2a172d65.gif">
+    <img width=55px height=55px src="https://i.imgur.com/UAMwx2c.gif">
     <img width=380px  src="https://skillicons.dev/icons?i=discord,bots,raspberrypi,linux,github,vscode"/>
 </p>
 
