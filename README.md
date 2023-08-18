@@ -11,7 +11,7 @@
 ## Stats
 <div align="center">
     <img height="128" src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966"/>
-    <img height="128" src="https://github-readme-stats.vercel.app/api?username=xoq2988&theme=dark"/>
+    <img height="128" src="https://leetcard.jacoblin.cool/XoQ?theme=dark&font=Noto%20Serif%20Bengali"/>
     <img height="128" src="https://lanyard.cnrad.dev/api/614815221399158854?"/>
     <img height="128" src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966"/>
 </div>
@@ -27,7 +27,7 @@ class Attributes(XoQ):
 
     @staticmethod
     def contact() -> tuple:
-        discord = "XoQ#2988"
+        discord = "XoQ2988"
         proton = "xoq2988@protonmail.com"
     
         return discord, proton
@@ -35,7 +35,7 @@ class Attributes(XoQ):
     @staticmethod
     def life() -> tuple:
         langs = ["English", "German", "Spanish"]
-        age = 17
+        age = 18
         
         return langs, age
     
